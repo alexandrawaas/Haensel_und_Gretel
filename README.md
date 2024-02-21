@@ -70,5 +70,6 @@ Textures and Images:
 - [Silver Cats: Sunny Village LITE](https://assetstore.unity.com/packages/3d/environments/sunny-village-lite-85199)
 - [Ultrasonic: Simple, Low-Poly Decorative Plant Assets](https://assetstore.unity.com/packages/3d/vegetation/simple-low-poly-decora-tive-plant-assets-252714)
 - [Nobiax / Yughues: Yughues Free Bushes](https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168)
+- [Blender](https://www.blender.org/) for creating the rest of the models
 
 Special thanks to [Jojik for your video on interaction systems](https://www.youtube.com/watch?v=6DyHULHqbP8). 
