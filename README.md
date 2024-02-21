@@ -75,3 +75,14 @@ Textures and Images:
 - [Blender](https://www.blender.org/) for creating the rest of the models
 
 Special thanks to [Jojik for your video on interaction systems](https://www.youtube.com/watch?v=6DyHULHqbP8). 
+<br>
+If I left something out by accident, feel free to contact me!
+<br>
+<br>
+
+## Contact
+
+If you have any questions about this project, you are welcome to contact me.
+
+
+
