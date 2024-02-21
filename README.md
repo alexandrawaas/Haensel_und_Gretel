@@ -27,3 +27,7 @@ Hansel and Gretel are only ten and twelve years old and relatively small. Thanks
 The player navigates the siblings through the labyrinth, first in the witch's cellar, then in underground passages and finally in the enchanted forest. In treasure chests and hiding places they can find breadcrumbs, for example, which can be used to mark the paths. Sometimes they also contain keys that unlock new paths, or delicious fruit that can free some forest dwellers from a curse or convince them to help the children. All in all, the paths in the maze have to be opened by solving numerous different puzzles and challenges in order to reach the next level. Some of these can only be overcome by one of the children, who must then unlock another path for their sibling. Secret paths and challenges can also be found that make surprising objects or tools available. At the end of each level, a particularly dangerous candy creature must be fought to carry on.
 <br>
 <br>
+
+## External Content
+
+Special thanks to [Jojik for your video on interaction systems](https://www.youtube.com/watch?v=6DyHULHqbP8). 
