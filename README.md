@@ -30,6 +30,8 @@ The player navigates the siblings through the labyrinth, first in the witch's ce
 
 ## External Content
 
+The following list contains all content envolved that was not created by myself:
+
 Starter packs:
 - [Unity Cinemachine](https://unity.com/de/unity/features/editor/art-and-design/cinemachine)
 - [Unity Starter Assets – Third Person](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526)
