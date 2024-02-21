@@ -1,12 +1,18 @@
 ## Description
 
-This is a little Demo of my 3D adventure game "Hänsel und Gretel - Verloren im Zauberwald" (Hansel and Gretel - Lost in the enchanted forest). It was created in Unity and retells the well-known fairy tale of the siblings escaping the bad witch and finding their way through the forest back to civilization.
+This is a little Demo of my 3D adventure game "Hänsel und Gretel - Verloren im Zauberwald" (Hansel and Gretel - Lost in the enchanted forest). It was created in Unity and retells the well-known fairy tale of the siblings escaping the wicked witch and finding their way through the forest back to civilization.
+<br>
+<br>
+The Demo is part of the second level, taking place right after the children escaped from the witch's cellar. The goal is to unlock the door that leads to the western part of the Level, where this Demo ends.
+<br>
+<br>
+**Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
 <br>
 <br>
 
 ## Story
 
-After their parents abandon Hansel and Gretel in the forest, they are captured by an evil witch who lives in a house made of sweets. Locked in her cellar, the children finally manage to free themselves. Now they have to venture out of the house together and into the dangerous, enchanted forest to find their way back to the village they called home. This is more difficult than expected, as the forest is a maze in which they can only find their way by dropping breadcrumbs, solving riddles and overcoming obstacles. Both Hansel's and Gretel's skills are needed to escape the forest safely. They can also help some of the forest's animal inhabitants, who have been turned into strange candy creatures by the witch's curse and can only be freed from it with a healthy snack. Will the two children manage to save the forest and themselves?
+After their parents abandon Hansel and Gretel in the forest, they are captured by a wicked witch who lives in a house made of sweets. Locked in her cellar, the children finally manage to free themselves. Now they have to venture out of the house together and into the dangerous, enchanted forest to find their way back to the village they called home. This is more difficult than expected, as the forest is a maze in which they can only find their way by dropping breadcrumbs, solving riddles and overcoming obstacles. Both Hansel's and Gretel's skills are needed to escape the forest safely. They can also help some of the forest's animal inhabitants, who have been turned into strange candy creatures by the witch's curse and can only be freed from it with a healthy snack. Will the two children manage to save the forest and themselves?
 <br>
 <br>
 
