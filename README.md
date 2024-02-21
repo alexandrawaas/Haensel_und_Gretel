@@ -6,6 +6,15 @@ This is a little Demo of my 3D adventure game "Hänsel und Gretel - Verloren im 
 The Demo is part of the second level, taking place right after the children escaped from the witch's cellar. The goal is to unlock the door that leads to the western part of the Level, where this Demo ends.
 <br>
 <br>
+
+## How to use
+
+1. Download the zip file "Build.zip" from the Demo folder of this repository.
+2. Unpack the zip file.
+3. Control-click the app icon inside the Build folder, then choose Open from the shortcut menu.
+4. Click Open.
+
+<br>
 **Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
 <br>
 <br>
