@@ -30,6 +30,8 @@ After their parents abandon Hansel and Gretel in the forest, they are captured b
 
 Hansel and Gretel are only ten and twelve years old and relatively small. Thanks to his petite build, Hansel can squeeze through the smallest of loopholes. His older sister Gretel, on the other hand, is taller and has a slingshot with which she can shoot fruit at enchanted animals to break their curse. Both children can drop breadcrumbs to mark paths they have already taken. The player can switch freely between the two siblings anytime in the game as long as they are both present in the respective level. While one of the children is actively controlled by the player, the other sibling follows them via a simple AI.
 
+<img src="https://github.com/alexandrawaas/Haensel_und_Gretel/blob/main/Screenshots/Characters" width="100%">
+
 <br>
 <br>
 
