@@ -15,7 +15,9 @@ The Demo is part of the second level, taking place right after the children esca
 4. Click Open.
 
 <br>
+
 **Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
+
 <br>
 <br>
 
