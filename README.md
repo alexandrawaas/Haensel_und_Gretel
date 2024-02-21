@@ -14,7 +14,6 @@ The Demo is part of the second level, taking place right after the children esca
 3. Control-click the app icon inside the Build folder, then choose Open from the shortcut menu.
 4. Click Open.
 
-<br>
 
 **Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
 
@@ -30,9 +29,9 @@ After their parents abandon Hansel and Gretel in the forest, they are captured b
 
 Hansel and Gretel are only ten and twelve years old and relatively small. Thanks to his petite build, Hansel can squeeze through the smallest of loopholes. His older sister Gretel, on the other hand, is taller and has a slingshot with which she can shoot fruit at enchanted animals to break their curse. Both children can drop breadcrumbs to mark paths they have already taken. The player can switch freely between the two siblings anytime in the game as long as they are both present in the respective level. While one of the children is actively controlled by the player, the other sibling follows them via a simple AI.
 
-<img src="https://github.com/alexandrawaas/Haensel_und_Gretel/blob/main/Screenshots/Characters" width="100%">
 
-<br>
+<img width="1214" alt="Characters" src="https://github.com/alexandrawaas/Haensel_und_Gretel/assets/112758102/5f54cd6e-eef0-4243-b1df-c7961fd468dc">
+
 <br>
 
 ## Gameplay
