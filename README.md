@@ -19,7 +19,6 @@ The Demo is part of the second level, taking place right after the children esca
 **Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
 
 <br>
-<br>
 
 ## Story
 
