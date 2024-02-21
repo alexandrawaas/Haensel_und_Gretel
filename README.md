@@ -76,6 +76,7 @@ Textures and Images:
 
 Special thanks to [Jojik for your video on interaction systems](https://www.youtube.com/watch?v=6DyHULHqbP8). 
 <br>
+<br>
 If I left something out by accident, feel free to contact me!
 <br>
 <br>
