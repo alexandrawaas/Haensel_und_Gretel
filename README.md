@@ -32,49 +32,43 @@ The player navigates the siblings through the labyrinth, first in the witch's ce
 
 Starter packs:
 - [Unity Cinemachine](https://unity.com/de/unity/features/editor/art-and-design/cinemachine)
-- [Unity Starter Assets – Third Person](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson- updates-in-new-charactercontroller-pa-196526)
+- [Unity Starter Assets – Third Person](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526)
   
-Skybox:
-- BOXOPHOBIC: FREE Skybox Extended Shader
-https://assetstore.unity.com/packages/p/free-skybox-extended-shader-107400
 Unity Auto-Save Plugin:
-- EckTech Games – AutoSave
-https://assetstore.unity.com/packages/tools/utilities/autosave-43605
-Shader:
-- IgniteCoders: Simple Water Shader URP
-https://assetstore.unity.com/packages/2d/textures-materials/water/simple-wa- ter-shader-urp-191449
-Animationen:
-- Starter Assets Animationen
-- Mixamo.com: crawling
-Sound-Effekte:
-- Pixabay.com
-- Musik selbst erstellt mit Logic Pro und Effekten aus Pixabay
+- [EckTech Games – AutoSave](https://assetstore.unity.com/packages/tools/utilities/autosave-43605)
+
+Skybox:
+- [BOXOPHOBIC: FREE Skybox Extended Shader](https://assetstore.unity.com/packages/p/free-skybox-extended-shader-107400)
+
+Water Shader:
+- [IgniteCoders: Simple Water Shader URP](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-wa-ter-shader-urp-191449)
+
+Animations:
+- [Unity Starter Assets Animations](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526)
+- [Adobe Mixamo](https://www.mixamo.com/#/)
+
+Sound Effects:
+- [Pixabay](https://pixabay.com/sound-effects/)
+- [Logic Pro](https://www.apple.com/de/logic-pro/) for creating the background music
+
 Fonts:
-- Princess Sofia:
-https://fonts.google.com/specimen/Princess+Sofia?classification=Handwriting
-- Gafata:
-https://fonts.google.com/specimen/Gafata?query=gafata
-Texturen und Bilder:
-- Architextures.org:
-https://architextures.org/textures/2935
-- Fadenkreuz: https://commons.wikimedia.org/wiki/File:Game-icons.net_Crosshair.png#/me- dia/File:Game-icons.net_Crosshair.png
-- Toby Fredson: Painted Tiles - Sleeping Forest https://assetstore.unity.com/packages/2d/textures-materials/painted-tiles- sleeping-forest-49170
+- [Princess Sofia](https://fonts.google.com/specimen/Princess+Sofia?classification=Handwriting)
+- [Gafata](https://fonts.google.com/specimen/Gafata?query=gafata)
+
+Textures and Images:
+- [Architextures](https://architextures.org/textures/2935)
+- [WikiCommons](https://commons.wikimedia.org/wiki/File:Game-icons.net_Crosshair.png#/me-dia/File:Game-icons.net_Crosshair.png)
+- [Toby Fredson: Painted Tiles - Sleeping Forest](https://assetstore.unity.com/packages/2d/textures-materials/painted-tiles-sleeping-forest-49170)
 
 3D Models:
-- Charaktere, Brot, Flederkuchen, Schlüssel und Menü-Hintergrund selbst er-
-stellt mit Blender
-- Inigmas Studios: Fantasy Forest Set - FREE! https://as-
-setstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-set-free-
-70568
-- Polytope Studio: Lowpoly Environment - Nature Free - MEDIEVAL FANTASY SERIES
-https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-
-nature-free-medieval-fantasy-series-187052
-- Papersy: Low Poly Mushrooms Pack https://assetstore.unity.com/packages/3d/vegetation/low-poly-mushrooms- pack-205460
-- Broken Vector: Low Poly Rock Pack https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack- 57874
-- Broken Vector: Low Poly Tree Pack https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack- 57866
-- Acorn Bringer: Simplistic Low Poly Nature https://assetstore.unity.com/packages/3d/environments/simplistic-low-poly-na- ture-93894
-- Silver Cats: Sunny Village LITE https://assetstore.unity.com/packages/3d/environments/sunny-village-lite- 85199
-- Ultrasonic: Simple, Low-Poly Decorative Plant Assets https://assetstore.unity.com/packages/3d/vegetation/simple-low-poly-decora- tive-plant-assets-252714
-- Nobiax / Yughues: Yughues Free Bushes https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free- bushes-13168
+- [Inigmas Studios: Fantasy Forest Set - FREE!](https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-set-free-70568)
+- [Polytope Studio: Lowpoly Environment - Nature Free - MEDIEVAL FANTASY SERIES](https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052)
+- [Papersy: Low Poly Mushrooms Pack](https://assetstore.unity.com/packages/3d/vegetation/low-poly-mushrooms-pack-205460)
+- [Broken Vector: Low Poly Rock Pack](https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack-57874)
+- [Broken Vector: Low Poly Tree Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866)
+- [Acorn Bringer: Simplistic Low Poly Nature](https://assetstore.unity.com/packages/3d/environments/simplistic-low-poly-na-ture-93894)
+- [Silver Cats: Sunny Village LITE](https://assetstore.unity.com/packages/3d/environments/sunny-village-lite-85199)
+- [Ultrasonic: Simple, Low-Poly Decorative Plant Assets](https://assetstore.unity.com/packages/3d/vegetation/simple-low-poly-decora-tive-plant-assets-252714)
+- [Nobiax / Yughues: Yughues Free Bushes](https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168)
 
 Special thanks to [Jojik for your video on interaction systems](https://www.youtube.com/watch?v=6DyHULHqbP8). 
