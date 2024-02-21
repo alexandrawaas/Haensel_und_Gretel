@@ -28,10 +28,10 @@ The player navigates the siblings through the labyrinth, first in the witch's ce
 <br>
 <br>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/alexandrawaas/Haensel_und_Gretel/blob/main/Trailer/HuG%20Trailer.mp4" type="video/mp4">
-  <source src="https://github.com/alexandrawaas/Haensel_und_Gretel/blob/main/Trailer/HuG%20Trailer.acc" type="video/acc">
-</video> 
+
+https://github.com/alexandrawaas/Haensel_und_Gretel/assets/112758102/74365f82-3b44-485c-b692-cfdd98e5f271
+
+
 
 ## External Content
 
