@@ -9,9 +9,9 @@ The Demo is part of the second level, taking place right after the children esca
 
 ## How to use
 
-1. Download the zip file "Build.zip" from the Demo folder of this repository.
+1. Download the latest release zip file (or the zip file "Build.zip" from the Demo folder of this repository).
 2. Unpack the zip file.
-3. Control-click the app icon inside the Build folder, then choose Open from the shortcut menu.
+3. Control-click the app icon inside the unpacked folder, then choose Open from the shortcut menu.
 4. Click Open.
 
 
