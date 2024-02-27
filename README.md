@@ -5,19 +5,15 @@ This is a little [Demo](https://github.com/alexandrawaas/Haensel_und_Gretel/rele
 <br>
 The Demo is part of the second level, taking place right after the children escaped from the witch's cellar. The goal is to unlock the door that leads to the western part of the Level, where this Demo ends.
 <br>
-<br>
-
-## How to use
-
-1. Download the [latest release zip file](https://github.com/alexandrawaas/Haensel_und_Gretel/releases/latest) (or the zip file "Build.zip" from the Demo folder of this repository).
-2. Unpack the zip file.
-3. Control-click the app icon inside the unpacked folder, then choose Open from the shortcut menu.
-4. Click Open.
-
-
-**Currently, this Demo only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
 
 <br>
+
+## Trailer
+
+https://github.com/alexandrawaas/Haensel_und_Gretel/assets/112758102/74365f82-3b44-485c-b692-cfdd98e5f271
+
+<br>
+
 
 ## Story
 
@@ -41,8 +37,18 @@ The player navigates the siblings through the labyrinth, first in the witch's ce
 <br>
 
 
-https://github.com/alexandrawaas/Haensel_und_Gretel/assets/112758102/74365f82-3b44-485c-b692-cfdd98e5f271
+## How to use
 
+1. Download the [latest release zip file](https://github.com/alexandrawaas/Haensel_und_Gretel/releases/latest) (or the zip file "Build.zip" from the Demo folder of this repository).
+2. Unpack the zip file.
+3. Control-click the app icon inside the unpacked folder, then choose Open from the shortcut menu.
+4. Click Open.
+
+<br>
+
+**The Demo is in German language. Currently, it only works on Apple Silicon Macs. I will release a Windows version as soon as I can.**
+
+<br>
 
 
 ## External Content
