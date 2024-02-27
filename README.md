@@ -1,6 +1,6 @@
 ## Description
 
-This is a little Demo of my 3D adventure game "Hänsel und Gretel - Verloren im Zauberwald" (Hansel and Gretel - Lost in the enchanted forest). It was created in Unity and retells the well-known fairy tale of the siblings escaping the wicked witch and finding their way through the forest back to civilization.
+This is a little [Demo](https://github.com/alexandrawaas/Haensel_und_Gretel/releases/latest) of my 3D adventure game "Hänsel und Gretel - Verloren im Zauberwald" (Hansel and Gretel - Lost in the enchanted forest). It was created in Unity and retells the well-known fairy tale of the siblings escaping the wicked witch and finding their way through the forest back to civilization.
 <br>
 <br>
 The Demo is part of the second level, taking place right after the children escaped from the witch's cellar. The goal is to unlock the door that leads to the western part of the Level, where this Demo ends.
@@ -9,7 +9,7 @@ The Demo is part of the second level, taking place right after the children esca
 
 ## How to use
 
-1. Download the latest release zip file (or the zip file "Build.zip" from the Demo folder of this repository).
+1. Download the [latest release zip file](https://github.com/alexandrawaas/Haensel_und_Gretel/releases/latest) (or the zip file "Build.zip" from the Demo folder of this repository).
 2. Unpack the zip file.
 3. Control-click the app icon inside the unpacked folder, then choose Open from the shortcut menu.
 4. Click Open.
